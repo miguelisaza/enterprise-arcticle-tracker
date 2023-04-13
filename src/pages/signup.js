@@ -23,8 +23,6 @@ export default function SignupTailwind() {
       return;
     }
 
-    // Add your login logic here
-    // Clear the error message on successful login
     setAlertMessage('');
   };
 
