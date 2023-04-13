@@ -1,6 +1,11 @@
 # Enterprise Article Tracker
 
-Just a sample full stack app done in 6 hours.
+Just a sample full stack app done in about 6 hours.
+
+![image](https://user-images.githubusercontent.com/18253315/231904121-197a84f3-ab50-4cc3-b02e-88be084c90b1.png)
+
+![image](https://user-images.githubusercontent.com/18253315/231904219-547b849c-915e-42c1-bc71-4a7ae1de78de.png)
+
 
 ## Tech Stack
 
